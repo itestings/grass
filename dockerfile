@@ -16,4 +16,4 @@ EXPOSE 80
 
 # docker buildx build --push \
 # --platform linux/arm64,linux/arm/v7,linux/arm64/v8,linux/amd64 \ 
-# -t cyrus0880/grass:1 -t cyrus0880/grass:latest .
+# -t itestings/grass:1 -t itestings/grass:latest .
